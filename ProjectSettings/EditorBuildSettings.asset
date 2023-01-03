@@ -9,5 +9,6 @@ EditorBuildSettings:
     path: Assets/Samples/Mixed Reality Toolkit Examples/2.7.3/Demos - HandTracking/Scenes/HandInteractionExamples.unity
     guid: 3dd4a396b5225f8469b9a1eb608bfa57
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ffb039cbab56fa84593ef328d08fcc2c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b2fa2de894b544d42b8810d26defff27, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e9e6dff2f8386e941b18d223c8d9f8ae, type: 2}
