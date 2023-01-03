@@ -146,3 +146,5 @@ Setting — 2:
 ![](https://miro.medium.com/max/427/1*ypYRYWncUAAbd1Se6JJjWA.gif)
 
 We have successfully completed all necessary configurations for our application to be fully functional on a Quest 2 device. By connecting the Quest 2 to a PC using Oculus Link, the application will be displayed on the headset with no issues. Although we are excited about this achievement, there are a few remaining issues that we will address in the next article. I will provide detailed instructions on how to enable hand tracking and guide you through the process of uploading your application to the headset, making it a standalone experience. Until then, happy coding!
+
+[\[Next part of the tutorial --> \]](https://medium.com/@taha.m.gokdemir/mrtk-101-utilizing-mrtk-for-quest-2-development-part-2-96021ce3456e)
